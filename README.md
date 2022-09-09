@@ -19,9 +19,3 @@ The code in the video and in repo isn't necessarily recommended, as-is, but is a
 [Here](https://github.com/elicorrales/https-github.com-elicorrales-book-rust-web-programming-tutorials-play-1-num-1) is the code.  
 <br/>
   
-## [Video: Simple Actix Web Server](https://www.youtube.com/watch?v=lXoxUNugf7A)  
-In this video we create a simple but updated version of a web server from page 17 of the book.  
-[Here](https://github.com/elicorrales/book-rust-prog-sys-dev-tutorials-play-1-num-3) is the code.  
-<br/>
-  
-
