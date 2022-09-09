@@ -1,1 +1,1 @@
-# book-rust-web-programming-tutorials-
+# book-rust-web-programming-tutorials
