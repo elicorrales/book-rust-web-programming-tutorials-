@@ -13,9 +13,22 @@ The approach is to:
 ## [Video: How I Learn Rust](https://www.youtube.com/watch?v=zTe-8WwR4Xc&list=PLNKa8O7lX-w5OCsqlXnfS-mhrzvyhzU0u&index=1)  
 <br/>  
 
-## [Video: Intro To Rust Enums & Structures]()  
+## [Video: Intro To Rust Enums & Structures - Part 1]()  
 In this video we play around with Structs in combination with Enums.  
 The code in the video and in repo isn't necessarily recommended, as-is, but is a way to get familiar with the concepts.  
+  
+All of the inner workings of our "Locations" object or structure are visible, so it would seem to break "encapsulation" and "abstraction".  
+  
+[Here](https://github.com/elicorrales/book-rust-web-programming-tutorials-play-1-num-1/blob/main/README.md) is the code.  
+<br/>
+  
+
+## [Video: Intro To Rust Enums & Structures - Part 2]()  
+In this video we continue with Structs in combination with Enums.  
+The code in the video and in repo isn't necessarily recommended, as-is, but is a way to get familiar with the concepts.  
+We show why perhaps what we did in Part 1 could be improved by "encapsulation" and "abstraction".    
+We move the inner workings over to a library.  
+  
 [Here](https://github.com/elicorrales/book-rust-web-programming-tutorials-play-1-num-1/blob/main/README.md) is the code.  
 <br/>
   
