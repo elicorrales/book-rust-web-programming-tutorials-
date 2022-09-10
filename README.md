@@ -16,6 +16,6 @@ The approach is to:
 ## [Video: Intro To Rust Enums & Structures]()  
 In this video we play around with Structs in combination with Enums.  
 The code in the video and in repo isn't necessarily recommended, as-is, but is a way to get familiar with the concepts.  
-[Here](https://github.com/elicorrales/https-github.com-elicorrales-book-rust-web-programming-tutorials-play-1-num-1/blob/main/README.md) is the code.  
+[Here](https://github.com/elicorrales/book-rust-web-programming-tutorials-play-1-num-1/blob/main/README.md) is the code.  
 <br/>
   
