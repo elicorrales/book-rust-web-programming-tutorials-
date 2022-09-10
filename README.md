@@ -13,7 +13,7 @@ The approach is to:
 ## [Video: How I Learn Rust](https://www.youtube.com/watch?v=zTe-8WwR4Xc&list=PLNKa8O7lX-w5OCsqlXnfS-mhrzvyhzU0u&index=1)  
 <br/>  
 
-## [Video: Intro To Rust Enums & Structures - Part 1]()  
+## [Video: Intro To Rust Enums & Structures - Part 1](https://www.youtube.com/watch?v=9xqIYsXjBAI&list=PLNKa8O7lX-w6ZW4Y7_CoQc6PEAcXxqLsI&index=4)  
 In this video we play around with Structs in combination with Enums.  
 The code in the video and in repo isn't necessarily recommended, as-is, but is a way to get familiar with the concepts.  
   
@@ -29,6 +29,6 @@ The code in the video and in repo isn't necessarily recommended, as-is, but is a
 We show why perhaps what we did in Part 1 could be improved by "encapsulation" and "abstraction".    
 We move the inner workings over to a library.  
   
-[Here](https://github.com/elicorrales/book-rust-web-programming-tutorials-play-1-num-1/blob/main/README.md) is the code.  
+[Here](https://github.com/elicorrales/book-rust-web-programming-tutorials-play-1-num-2/blob/main/README.md) is the code.  
 <br/>
   
