@@ -23,7 +23,7 @@ All of the inner workings of our "Locations" object or structure are visible, so
 <br/>
   
 
-## [Video: Intro To Rust Enums & Structures - Part 2]()  
+## [Video: Intro To Rust Enums & Structures - Part 2 - Encapsulation, Abstraction, Tuples, Options]()  
 In this video we continue with Structs in combination with Enums.  
 The code in the video and in repo isn't necessarily recommended, as-is, but is a way to get familiar with the concepts.  
 We show why perhaps what we did in Part 1 could be improved by "encapsulation" and "abstraction".    
